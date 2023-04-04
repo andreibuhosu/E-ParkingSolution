@@ -23,6 +23,7 @@
 * Google Maps API 
 * View/delete/update bookings
 * Anti double-booking
+* Pagination and sortation
 * Submit a request to refund/update a booking to the parking owners  
 * View the request/message sent from the driver and vice versa from the parking owner
 * View metrics for the Parking Owner
