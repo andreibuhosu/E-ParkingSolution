@@ -84,7 +84,7 @@
 * Address Updated (along with the distances)
 <img width="1800" alt="Screenshot 2023-05-06 at 01 09 25" src="https://user-images.githubusercontent.com/99267298/236589726-ee88562a-f802-43db-ade1-449071d2debc.png">
 
-* Google Map with the pin points of the Car Parks
+* Google Map with the pin points of the Car Parks (+sortation and pagination)
 <img width="1800" alt="Screenshot 2023-05-06 at 01 07 07" src="https://user-images.githubusercontent.com/99267298/236589751-ff63c86b-871d-4512-a1e7-e0790ce69c6e.png">
 
 * Google Maps (driving mode directions triggered when pressed on the address)
