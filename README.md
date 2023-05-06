@@ -191,11 +191,11 @@
 
 ## Extras :
 ### ERD Diagram :
-![erd-eps](https://user-images.githubusercontent.com/99267298/236591864-dd67ffe1-884c-400b-adf7-5c80650b8073.png)
+![eeerrdd](https://user-images.githubusercontent.com/99267298/236592082-83908cd6-7f75-4115-8134-4243b0a6beba.png)
 
 This ERD diagram represents the entities and relationships of the E-Parking Solution database.
 
-The "users" table holds information about the users of the system, including their unique user_id, username, first and last name, address, email, password, and role. The role column indicates whether the user is a driver, parking owner, or site administrator. This table is necessary to support the login, registration, and messaging functionality of the system.
+The "users" table holds information about the users of the system, including their unique user_id, username, address, password, and role. The role column indicates whether the user is a driver, parking owner, or site administrator. This table is necessary to support the login, registration, and messaging functionality of the system.
 
 The "car_park" table stores data about each parking facility, such as its unique car_park_id, name, address, whether it has disabled spaces, and the user_id of the parking owner who manages it. This table is necessary to support the parking space booking functionality of the system.
 
