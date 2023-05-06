@@ -47,3 +47,17 @@
 * Google Maps API
 * MySQL Connector 
 * etc.
+
+
+# Presentation
+
+## Landing Page (Explaining what the website is about) :
+<img width="1800" alt<img width="1800" alt="Screenshot 2023-05-06 at 01 00 31" src="https://user-images.githubusercontent.com/99267298/236589324-c14cbd24-a914-4ea7-a3b8-7405318e0c0b.png">
+="Screenshot 2023-05-06 at 01 00 13" src="https://user-images.githubusercontent.com/99267298/236588458-ef52226a-ade3-45c8-8fec-a2f53357f695.png">
+<img width="1800" alt="Screenshot 2023-05-06 at 01 00 41" src="https://user-images.githubusercontent.com/99267298/236589329-859714ec-f318-4ef9-8cd4-d3880d44f2fb.png">
+
+<img width="1800" alt="Screenshot 2023-05-06 at 01 00 41" src="https://user-images.githubusercontent.com/99267298/236589334-5115c559-9c88-4e35-8b61-15d32ee8530f.png">
+<img width="1800" alt="Screenshot 2023-05-06 at 01 00 52" src="https://user-images.githubusercontent.com/99267298/236589340-ef366dec-37c8-4f39-a831-b117a0457046.png">
+<img width="1800" alt="Screenshot 2023-05-06 at 01 00 58" src="https://user-images.githubusercontent.com/99267298/236589343-1e3130a4-7ef2-4e54-b1d7-b06348592107.png">
+<img width="1800" alt="Screenshot 2023-05-06 at 01 01 06" src="https://user-images.githubusercontent.com/99267298/236589347-6c51f99d-b9f3-45fa-b3eb-370bdcdf5450.png">
+<img width="1800" alt="Screenshot 2023-05-06 at 01 01 11" src="https://user-images.githubusercontent.com/99267298/236589349-42e64933-b2f4-4463-a472-c5fcb9e40ba8.png">
