@@ -75,7 +75,7 @@
 <img width="1800" alt="Screenshot 2023-05-06 at 01 01 48" src="https://user-images.githubusercontent.com/99267298/236589573-62cf7e7e-9e15-4b9f-a70a-e6b2f1d835de.png">
 
 ## Driver (normal user) :
-## Booking Page :
+### Booking Page :
 <img width="1800" alt="Screenshot 2023-05-06 at 01 07 47" src="https://user-images.githubusercontent.com/99267298/236589695-563e404c-9df1-40a2-a2cd-04ad30e44a58.png">
 
 * Update Address
@@ -102,3 +102,31 @@
 
 * Anti-double Booking
 <img width="1800" alt="Screenshot 2023-05-06 at 01 10 57" src="https://user-images.githubusercontent.com/99267298/236589888-e194dac7-8f5d-47ca-b259-95cf92949df3.png">
+
+* Payment Gateway
+<img width="640" alt="thumbnail_Screenshot 2023-05-06 at 01 43 09" src="https://user-images.githubusercontent.com/99267298/236589966-6ea24c11-37cd-4ff3-a3bd-5a996a736508.png">
+
+* Cards to Pay
+<img width="1800" alt="Screenshot 2023-05-06 at 01 12 11" src="https://user-images.githubusercontent.com/99267298/236589988-94856a51-8b60-4f08-9529-4c3d772ef225.png">
+
+* Card not Accepted
+<img width="1800" alt="Screenshot 2023-05-06 at 01 12 41" src="https://user-images.githubusercontent.com/99267298/236590016-5f796919-dc3d-411a-8712-50603c233218.png">
+
+* Card Accepted
+<img width="1800" alt="Screenshot 2023-05-06 at 01 13 00" src="https://user-images.githubusercontent.com/99267298/236590026-8cb1c9a0-b35b-4772-8538-81a26d086245.png">
+
+### View Bookings :
+<img width="1800" alt="Screenshot 2023-05-06 at 01 13 26" src="https://user-images.githubusercontent.com/99267298/236590050-88cd155a-7ade-4bce-ae57-568a780b4ad8.png">
+
+* View Booking
+<img width="1800" alt="Screenshot 2023-05-06 at 01 13 38" src="https://user-images.githubusercontent.com/99267298/236590069-2f375247-e55c-4573-b40a-79420a4891fc.png">
+
+* Contact the Parking Owner
+<img width="1800" alt="Screenshot 2023-05-06 at 01 14 25" src="https://user-images.githubusercontent.com/99267298/236590081-708bf1a8-b316-4333-865f-b798a1d09a39.png">
+
+* Message was Sent
+<img width="1800" alt="Screenshot 2023-05-06 at 01 14 32" src="https://user-images.githubusercontent.com/99267298/236590090-9d3500f2-5339-4a10-8a20-379d1f499021.png">
+
+* Inbox Driver
+<img width="1800" alt="Screenshot 2023-05-06 at 01 14 42" src="https://user-images.githubusercontent.com/99267298/236590110-383b76f6-6f80-4bf4-91c8-4974c36594be.png">
+
