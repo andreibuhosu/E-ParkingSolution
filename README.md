@@ -104,7 +104,7 @@
 <img width="1800" alt="Screenshot 2023-05-06 at 01 10 57" src="https://user-images.githubusercontent.com/99267298/236589888-e194dac7-8f5d-47ca-b259-95cf92949df3.png">
 
 * Payment Gateway
-<img width="640" alt="thumbnail_Screenshot 2023-05-06 at 01 43 09" src="https://user-images.githubusercontent.com/99267298/236589966-6ea24c11-37cd-4ff3-a3bd-5a996a736508.png">
+<img width="1800" alt="thumbnail_Screenshot 2023-05-06 at 01 43 09" src="https://user-images.githubusercontent.com/99267298/236589966-6ea24c11-37cd-4ff3-a3bd-5a996a736508.png">
 
 * Cards to Pay
 <img width="1800" alt="Screenshot 2023-05-06 at 01 12 11" src="https://user-images.githubusercontent.com/99267298/236589988-94856a51-8b60-4f08-9529-4c3d772ef225.png">
@@ -129,4 +129,41 @@
 
 * Inbox Driver
 <img width="1800" alt="Screenshot 2023-05-06 at 01 14 42" src="https://user-images.githubusercontent.com/99267298/236590110-383b76f6-6f80-4bf4-91c8-4974c36594be.png">
+
+## Parking Owner :
+### Manage Car Parks :
+<img width="1800" alt="Screenshot 2023-05-06 at 01 15 07" src="https://user-images.githubusercontent.com/99267298/236590174-545e3c83-cee3-4d90-bfa4-de4a237d02fe.png">
+
+* Add a new Car Park
+<img width="1800" alt="Screenshot 2023-05-06 at 01 15 17" src="https://user-images.githubusercontent.com/99267298/236590192-6829d729-d86c-46cf-bb79-abc19e30ee77.png">
+
+* View Parking Spaces
+<img width="1800" alt="Screenshot 2023-05-06 at 01 15 36" src="https://user-images.githubusercontent.com/99267298/236590206-e4789c74-fa7b-4fc2-b120-68fc1915810a.png">
+
+* Add Parking Spaces
+<img width="1800" alt="Screenshot 2023-05-06 at 01 16 14" src="https://user-images.githubusercontent.com/99267298/236590222-717c9faf-e474-424d-a73e-c51ffa192f2a.png">
+
+### Parking Owner Inbox :
+<img width="1800" alt="Screenshot 2023-05-06 at 01 17 05" src="https://user-images.githubusercontent.com/99267298/236590244-2b22647d-2d91-42bb-8152-d37bec609e9b.png">
+
+* View Message
+<img width="1800" alt="Screenshot 2023-05-06 at 01 17 23" src="https://user-images.githubusercontent.com/99267298/236590263-d0b970e6-7af7-444f-8d91-55ca712d455f.png">
+
+* Reply to Message
+<img width="1800" alt="Screenshot 2023-05-06 at 01 17 46" src="https://user-images.githubusercontent.com/99267298/236590274-d085dcf6-0ad4-413f-8aba-23807d5e3f73.png">
+
+* Message was sent
+<img width="1800" alt="Screenshot 2023-05-06 at 01 17 52" src="https://user-images.githubusercontent.com/99267298/236590284-380adbec-1e70-4493-9e44-fe834dc9a984.png">
+
+### Parking Owner View Bookings :
+<img width="1800" alt="thumbnail_Screenshot 2023-05-06 at 01 43 47" src="https://user-images.githubusercontent.com/99267298/236590311-f79099a5-31d8-434f-ab3e-7440f47c0098.png">
+
+* Edit Booking
+<img width="1800" alt="Screenshot 2023-05-06 at 01 18 08" src="https://user-images.githubusercontent.com/99267298/236590331-5f8f1212-1965-44a8-a221-943c060186a5.png">
+
+* Booking Updated
+<img width="1800" alt="Screenshot 2023-05-06 at 01 18 17" src="https://user-images.githubusercontent.com/99267298/236590337-c401bc0a-2fe4-4767-995b-e68e1d3da014.png">
+
+### Parking Owner Statistics/Metrics :
+<img width="1800" alt="Screenshot 2023-05-06 at 01 18 35" src="https://user-images.githubusercontent.com/99267298/236590343-958f521b-182a-4acd-9dae-3f20048e2000.png">
 
