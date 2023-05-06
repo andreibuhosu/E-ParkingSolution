@@ -167,3 +167,24 @@
 ### Parking Owner Statistics/Metrics :
 <img width="1800" alt="Screenshot 2023-05-06 at 01 18 35" src="https://user-images.githubusercontent.com/99267298/236590343-958f521b-182a-4acd-9dae-3f20048e2000.png">
 
+## Site Administrator :
+### Manage Accounts :
+<img width="1800" alt="Screenshot 2023-05-06 at 01 20 24" src="https://user-images.githubusercontent.com/99267298/236590422-b9c4bce5-c9e6-4575-8329-ec1af5001442.png">
+
+* Disable Account
+<img width="1800" alt="Screenshot 2023-05-06 at 01 20 33" src="https://user-images.githubusercontent.com/99267298/236590444-4038e7bc-3dfb-4f54-a313-079b2b1b0c84.png">
+
+* Editing Account (Password and Role)
+<img width="1800" alt="Screenshot 2023-05-06 at 01 21 10" src="https://user-images.githubusercontent.com/99267298/236590474-b9e96f2a-c2a6-422c-a501-cb2182e70cfa.png">
+
+* Account Updated
+<img width="1800" alt="Screenshot 2023-05-06 at 01 21 47" src="https://user-images.githubusercontent.com/99267298/236590496-d680b222-b682-4ca6-a32f-39fb8f959202.png">
+
+### Create Accounts for Parking Owners :
+<img width="1800" alt="Screenshot 2023-05-06 at 01 21 59" src="https://user-images.githubusercontent.com/99267298/236590511-9d397d67-8d73-4ec8-8d43-853f7716e8e9.png">
+
+### Site Administrator Statistics/Metrics :
+<img width="1800" alt="Screenshot 2023-05-06 at 01 22 15" src="https://user-images.githubusercontent.com/99267298/236590548-1dd75fe7-8d95-43d7-8247-234a69ceb3e7.png">
+
+
+![thanks-for-watching-with-glitch-effect-free-video](https://user-images.githubusercontent.com/99267298/236590621-1151e2aa-b03a-4bf5-9150-f929135654f9.jpg)
