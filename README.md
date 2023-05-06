@@ -188,3 +188,35 @@
 
 
 ![thanks-for-watching-with-glitch-effect-free-video](https://user-images.githubusercontent.com/99267298/236590621-1151e2aa-b03a-4bf5-9150-f929135654f9.jpg)
+
+## Extras :
+### ERD Diagram :
+![erd-eps](https://user-images.githubusercontent.com/99267298/236591864-dd67ffe1-884c-400b-adf7-5c80650b8073.png)
+
+This ERD diagram represents the entities and relationships of the E-Parking Solution database.
+
+The "users" table holds information about the users of the system, including their unique user_id, username, first and last name, address, email, password, and role. The role column indicates whether the user is a driver, parking owner, or site administrator. This table is necessary to support the login, registration, and messaging functionality of the system.
+
+The "car_park" table stores data about each parking facility, such as its unique car_park_id, name, address, whether it has disabled spaces, and the user_id of the parking owner who manages it. This table is necessary to support the parking space booking functionality of the system.
+
+The "parking_space" table records details about each parking space within a car park, such as its unique parking_space_id, address, floor level, price, and the car_park_id to which it belongs. This table is necessary to support the parking space booking functionality of the system.
+
+The "cards" table holds information about payment cards used for transactions. It includes a unique card_id, a flag for whether payment is accepted, card number, expiration date, and security code. This table is necessary to support the payment functionality of the system.
+
+The "transactions" table stores data about each parking transaction, including the unique transaction_id, amount charged, card number used, start and end date/time, license plate of the car parked, receipt number, transaction status, date and time of transaction, and transaction type (e.g., booking or payment). It also contains foreign keys to the user_id, parking_space_id, and card_id associated with each transaction. This table is necessary to support the payment and booking functionality of the system.
+
+Finally, the "messages" table records communication between users of the system. It includes a unique request_id, message text, date and time sent, and a subject line. It also contains foreign keys to the sender_id and recipient_id of the message. This table is necessary to support the messaging functionality of the system.
+Overall, this ERD diagram shows the relationships between the different entities in the E-Parking Solution database, and how they interact with one another to facilitate parking transactions and communication between users.
+In conclusion, the ERD diagram has been designed to support the various functionalities of the E-Parking Solution, including registration, login, messaging, parking space booking, payment etc. Each table and field has been carefully selected and designed to support the requirements of the system.
+
+
+### Use Case Diagram :
+![Use Case Diagram](https://user-images.githubusercontent.com/99267298/236591921-980c7b2f-deae-4b1e-8bbd-0c48ca2a7f66.png)
+
+The Use Case Diagram presented above is a visual representation of how the E-Parking Solution can be used by its different types of users.
+The first user identified is the Driver, who is the primary user of the system. To use the E-Parking Solution, the Driver needs to first register on the platform and then log in. Once logged in, the Driver can view the available car parks and parking spaces, choose a parking space, and proceed to book it by entering details such as start and end time, license plate, etc. 
+The Driver can then make the payment for the booking. The Driver can also view their transaction history and contact the Parking Owner for any queries related to their booking. Additionally, the Driver can access their inbox to view and reply to messages.
+The second user is the Parking Owner, who can also log in to the system. The Parking Owner has access to various features such as metrics/statistics for their Car Parks and Parking Spaces, and can perform CRUD operations for managing them. They can view the bookings made for their Parking Spaces and can refund or edit them if necessary. The Parking Owner can also contact the Driver for any queries related to their booking, and can access their inbox to view and reply to messages.
+The third user is the Site Administrator, who has overall control over the platform. The Site Administrator can view metrics/statistics for the entire system, create accounts for Parking Owners, and manage accounts across the platform. This includes disabling/enabling accounts for Parking Owners as necessary.
+In summary, the Use Case Diagram showcases the different types of users that the E-Parking Solution caters to and the functionalities that they can access. It highlights how the platform enables Drivers to easily book parking spaces and Parking Owners to effectively manage their Car Parks and Parking Spaces. The Site Administrator is responsible for ensuring the smooth functioning of the platform as a whole.
+
